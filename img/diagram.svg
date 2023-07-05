@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="175mm" height="175mm" version="1.1" viewBox="0 0 175 175" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="Arrow1Lend" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker1394" overflow="visible" orient="auto">
+   <path transform="matrix(.8 0 0 .8 10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker1394-3" overflow="visible" orient="auto">
+   <path transform="matrix(.8 0 0 .8 10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Lend-0" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker1394-3-6" overflow="visible" orient="auto">
+   <path transform="matrix(.8 0 0 .8 10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Lend-0-8" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <g stroke="#000">
+  <g transform="matrix(.014714 0 0 .014714 143.78 137.02)">
+   <path transform="translate(14.904)" d="m568.57 620.93c0 116.77-94.66 211.43-211.43 211.43s-211.43-94.66-211.43-211.43v-1e-5" fill-opacity="0" opacity=".99" stroke-linecap="round" stroke-width="20"/>
+   <path transform="translate(14.904)" d="m568.57 620.93c0 116.77-94.66 211.43-211.43 211.43s-211.43-94.66-211.43-211.43v-1e-5" fill-opacity="0" opacity=".99" stroke-linecap="round" stroke-width="40"/>
+   <path d="m372.05 832.36v114.29" fill="none" stroke-width="30"/>
+   <path transform="translate(42.047,34.286)" d="m197.14 920.93c1e-5 -18.935 59.482-34.286 132.86-34.286 73.375 0 132.86 15.35 132.86 34.286z" opacity=".99" stroke-linecap="round" stroke-width="20"/>
+   <path d="m372.06 183.94c-77.019-1e-5 -139.47 62.45-139.47 139.47v289.62c0 77.019 62.45 139.47 139.47 139.47 77.019 0 139.44-62.45 139.44-139.47v-289.62c0-77.02-62.42-139.47-139.44-139.47z" opacity=".99" stroke-linecap="round" stroke-width="21.455"/>
+  </g>
+  <g transform="matrix(.014714 0 0 .014714 120.55 98.346)">
+   <path transform="translate(14.904)" d="m568.57 620.93c0 116.77-94.66 211.43-211.43 211.43s-211.43-94.66-211.43-211.43v-1e-5" fill-opacity="0" opacity=".99" stroke-linecap="round" stroke-width="20"/>
+   <path transform="translate(14.904)" d="m568.57 620.93c0 116.77-94.66 211.43-211.43 211.43s-211.43-94.66-211.43-211.43v-1e-5" fill-opacity="0" opacity=".99" stroke-linecap="round" stroke-width="40"/>
+   <path d="m372.05 832.36v114.29" fill="none" stroke-width="30"/>
+   <path transform="translate(42.047,34.286)" d="m197.14 920.93c1e-5 -18.935 59.482-34.286 132.86-34.286 73.375 0 132.86 15.35 132.86 34.286z" opacity=".99" stroke-linecap="round" stroke-width="20"/>
+   <path d="m372.06 183.94c-77.019-1e-5 -139.47 62.45-139.47 139.47v289.62c0 77.019 62.45 139.47 139.47 139.47 77.019 0 139.44-62.45 139.44-139.47v-289.62c0-77.02-62.42-139.47-139.44-139.47z" opacity=".99" stroke-linecap="round" stroke-width="21.455"/>
+  </g>
+  <g transform="matrix(.014714 0 0 .014714 94.493 137.17)">
+   <path transform="translate(14.904)" d="m568.57 620.93c0 116.77-94.66 211.43-211.43 211.43s-211.43-94.66-211.43-211.43v-1e-5" fill-opacity="0" opacity=".99" stroke-linecap="round" stroke-width="20"/>
+   <path transform="translate(14.904)" d="m568.57 620.93c0 116.77-94.66 211.43-211.43 211.43s-211.43-94.66-211.43-211.43v-1e-5" fill-opacity="0" opacity=".99" stroke-linecap="round" stroke-width="40"/>
+   <path d="m372.05 832.36v114.29" fill="none" stroke-width="30"/>
+   <path transform="translate(42.047,34.286)" d="m197.14 920.93c1e-5 -18.935 59.482-34.286 132.86-34.286 73.375 0 132.86 15.35 132.86 34.286z" opacity=".99" stroke-linecap="round" stroke-width="20"/>
+   <path d="m372.06 183.94c-77.019-1e-5 -139.47 62.45-139.47 139.47v289.62c0 77.019 62.45 139.47 139.47 139.47 77.019 0 139.44-62.45 139.44-139.47v-289.62c0-77.02-62.42-139.47-139.44-139.47z" opacity=".99" stroke-linecap="round" stroke-width="21.455"/>
+  </g>
+ </g>
+ <g fill="none" stroke-width=".26458px">
+  <g stroke="#000">
+   <path d="m106.18 144.14 35.655 2.002" marker-end="url(#Arrow1Lend)" marker-start="url(#marker1394)"/>
+   <path d="m101.06 136.65 20.475-26.087" marker-end="url(#Arrow1Lend-0)" marker-start="url(#marker1394-3)"/>
+   <path d="m147.16 136.67-15.55-25.815" marker-end="url(#Arrow1Lend-0-8)" marker-start="url(#marker1394-3-6)"/>
+  </g>
+  <text x="125.61729" y="129.85852" font-family="sans-serif" font-size="3.3073px" letter-spacing="0px" stroke="#000000" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="125.61729" y="129.85852" text-align="center">Fixed 10m</tspan><tspan x="125.61729" y="133.99263" text-align="center">Baseline</tspan></text>
+ </g>
+ <g>
+  <g transform="matrix(.23248 0 0 .23248 46.831 37.92)" stroke="#111" stroke-width="5">
+   <polygon points="6 47.699 21.989 47.699 39.389 62.75 39.389 13.769 22.235 28.606 6 28.606" fill="#111" stroke-linejoin="round"/>
+   <g fill="none" stroke-linecap="round">
+    <path d="m48.128 49.03c1.929-3.096 3.062-6.739 3.062-10.653 0-3.978-1.164-7.674-3.147-10.8"/>
+    <path d="m55.082 20.537c3.695 4.986 5.884 11.157 5.884 17.84 0 6.621-2.151 12.738-5.788 17.699"/>
+    <path d="m61.71 62.611c5.267-6.666 8.418-15.08 8.418-24.233 0-9.217-3.192-17.682-8.519-24.368"/>
+   </g>
+  </g>
+  <g fill="none">
+   <circle cx="56.055" cy="46.655" r="21.873" stroke="#7e7e7e"/>
+   <circle cx="56.055" cy="46.655" r="32.809" stroke="#7f7f7f"/>
+   <g stroke="#7e7e7e">
+    <circle cx="56.055" cy="46.655" r="43.746"/>
+    <circle cx="56.055" cy="46.655" r="54.682"/>
+    <circle cx="56.055" cy="46.655" r="76.555"/>
+    <circle cx="56.055" cy="46.655" r="65.618"/>
+    <circle cx="56.055" cy="46.655" r="87.491"/>
+    <circle cx="56.055" cy="46.655" r="98.427"/>
+    <circle cx="56.055" cy="46.655" r="109.36"/>
+    <circle cx="56.055" cy="46.655" r="120.3"/>
+    <circle cx="56.055" cy="46.655" r="131.24"/>
+    <circle cx="56.055" cy="46.655" r="142.17"/>
+   </g>
+  </g>
+ </g>
+</svg>
