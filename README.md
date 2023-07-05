@@ -65,7 +65,14 @@ synched to some arbitrary epoch.
 
 Between wired devices on a ethernet network, it is completely feasible to get ping times in the 100 microsecond range 
 (0.1 milliseconds). If we can service simple UDP packets at the same rate/latency, we should easily be able to pull this
-off. Unfortunately, wifi looks like it has much worse latencies. 
+off. Unfortunately, wifi looks like it has much worse latencies.
+
+### Results
+
+To test this, I created the `timing_service.py` and `echo_service.py` scripts. When running between two wired ethernet
+machines on the same subnet, I routinely saw results of 0.1ms. However, when running with an wifi phone, I was seeing
+(after a repeatable startup hiccup) normal round trip times of 4-7ms. This translates into an error of multiple meters, 
+probably not going to be sufficient.
 
 ## Sound Calibration
 
